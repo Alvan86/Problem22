@@ -44,6 +44,27 @@ Exercise 3: Ranking words (2 points) # def rank_words(u0, v0) >  argsort(u0)[::-
 
 Exercise 4: Ranking sentences (1 point) # def rank_words(u0, v0) >  argsort(v0)[::-1]
 
+# Problem 19: Click-through Balancing Act 
+
+Exercise 0: Imputing missing values (2 points) # replace any missing values in each col by the mode or median
+
+Exercise 1: Down-sampling (2 points) # Count # of 0 & 1 in array > determine the smaller group > get smaller indices > get subset indices > concat both
+
+Exercise 2: Up-sampling (1 point)
+
+# Problem 18: Data Jobs
+
+Exercise 0 (2 points). # HTML results > pandas DataFrame
+
+Exercise 1 (2 points). # filter_jobs(df, target_jobs) # target_jobs > list of substrings to match col
+
+Exercise 2 (2 points). # Series containing the exact substring replaced with target
+
+Exercise 3 (2 points) # Group by, median
+
+Exercise 4 (2 points). # Iterate dict and use all previous functions for df summary
+
+
 
 
 
