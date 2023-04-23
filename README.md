@@ -1,6 +1,6 @@
 # Problem22 Spring 2021: Analyzing product reviews
 
-Exercise 0 (2 points): Convert the reviews into a pandas data frame #Given a list of dictionaries, convert it to a pandas DataFrame object
+Exercise 0 (2 points): Convert the reviews into a pandas data frame #Given a list of dictionaries, convert it to a pandas DataFrame object\n
 Exercise 1 (2 points): Subselect e-books with usable genres #e-book - a string ID, 'genre' - a CLEANED genre string
 Exercise 2 (1 point): Combining the data
 Exercise 3 (2 points): Map string IDs to logical indices #Series object x > index and value x
