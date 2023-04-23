@@ -64,7 +64,71 @@ Exercise 3 (2 points) # Group by, median
 
 Exercise 4 (2 points). # Iterate dict and use all previous functions for df summary
 
+# Problem 17: Spectral graph partitioning
 
+Exercise 0 (2 points) # Given edges data frame, directed edge from node a to node b, symmetrize, also a directed edge b to a
+
+Exercise 1 (1 point) # sparse matrix in coordinate (COO) format
+
+Exercise 2 (2 points) # Return a pair of 1-D np contaning pos of all +ve entries and anothe for remaining
+
+Exercise 3 (2 points) # invert_perm > argsort()
+
+Exercise 4 (2 points) # Fiedler vector > permutation vector  > coordinate sparse matrix
+
+# Problem 15: Semi-supervised Learning
+
+Exercise 1 (2 points) # find_clusters(X, centers) using vq
+
+Exercise 2 (1 point) # find_max_common_label_in_cluster(clustering, y, k)
+
+Exercise 3 (2 points) # update_labels_1(y_train, X, centers)
+
+Exercise 4 (1 point) # k_nearest_neighbor(X, img, k), Euclidean distance, argsort
+
+Exercise 5 (1 point) # most_common_label(y_train, group)
+
+# Problem 13: Traveling Salesperson Problem
+
+Exercise 0 (3 points) # total distance of a round-trip tour through the cities,  euclidean_distance
+
+Exercise 1 (2 points) # swap_cities(path, i, j)
+
+Exercise 2 (2 points) # acceptance_probability(old_distance, new_distance, k)
+
+Exercise 3 (3 points)  # use all previous functions to implement full algorithm
+
+# Problem 12: Snowball Poem Generator
+
+Exercise 0 (3 pts) # defaultdict mapping word len(n) > a set of all words following it len(n+1) # re.split
+
+Exercise 1 (3 pts) # defaultdict maps word w to its longest "natural" run in the text (list)
+
+Exercise 2 (4 pts) # Put it all together
+
+# Problem 8: Counting triangles in a social network
+
+Exercise 0 (3 points) # count_triangles(A) > int(np.sum(np.multiply(A.dot(A), A)) / 6)
+
+Exercise 1 (2 points) # list > dict
+
+Exercise 2 (2 points) # count_appearances(casts)
+
+Exercise 3 (3 points) # build coords using combinations and convert to sparse matrix
+
+# Problem 4
+
+Exercise 0 (1 point) # read csv
+
+Exercise 1 (1 point) # Euclidean distance(two-norm) # return a boolean Numpy array where X[i, :] lies within the eps-sized ball centered at p
+
+Exercise 2 (1 point) # set_of_indices = set(np.where(y)[0])
+
+Exercise 3 (1 point) # find_neighbors(eps, X[:m, :])
+
+Exercise 4 (2 points) # find_core_points(s, neighbors)
+
+Exercise 5 (4 points) # expand_cluster (p, neighbors, core_set, visited, assignment)
 
 
 
