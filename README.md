@@ -32,4 +32,18 @@ Exercise 4: Cleaning the dataframe (2 points) # filter latest date col with rege
 
 Exercise 5 (last one!): Merging price and geographic boundaries (2 points)
 
+# Problem 20: Key sentences 
+
+Exercise 0: Extracting sentences (2 points) # re.split, strip()
+
+Exercise 1: Construct bags of words (2 points) 
+
+Exercise 2: Constructing the coordinates for a sparse matrix (3 points)
+
+Exercise 3: Ranking words (2 points) # def rank_words(u0, v0) >  argsort(u0)[::-1]
+
+Exercise 4: Ranking sentences (1 point) # def rank_words(u0, v0) >  argsort(v0)[::-1]
+
+
+
 
