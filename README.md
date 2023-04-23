@@ -130,5 +130,12 @@ Exercise 4 (2 points) # find_core_points(s, neighbors)
 
 Exercise 5 (4 points) # expand_cluster (p, neighbors, core_set, visited, assignment)
 
+# Problem 2: "But her emails..."
 
+Exercise 0 (1 point) # Read sql
 
+Exercise 1 (3 points) # SQL query
+
+Exercise 2 (3 points) # Merge data frame
+
+Exercise 3 (3 points) # Merge data frame
