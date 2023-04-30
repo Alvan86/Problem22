@@ -131,7 +131,7 @@ Exercise 3 (2 points) # Group by, median
 Exercise 4 (2 points). # Iterate dict and use all previous functions for df summary
 
 
-# Problem 17: Spectral graph partitioning
+# Problem 17: Spectral graph partitioning (Useful in ISYE6740 HW)
 
 Exercise 0 (2 points) # Given edges data frame, directed edge from node a to node b, symmetrize, also a directed edge b to a
 
@@ -157,7 +157,7 @@ Exercise 4 (1 point) # k_nearest_neighbor(X, img, k), Euclidean distance, argsor
 Exercise 5 (1 point) # most_common_label(y_train, group)
 
 
-# Problem 13: Traveling Salesperson Problem
+# Problem 13: Traveling Salesperson Problem (Useful in ISYE6740 HW)
 
 Exercise 0 (3 points) # total distance of a round-trip tour through the cities,  euclidean_distance
 
@@ -168,7 +168,7 @@ Exercise 2 (2 points) # acceptance_probability(old_distance, new_distance, k)
 Exercise 3 (3 points)  # use all previous functions to implement full algorithm
 
 
-# Problem 12: Snowball Poem Generator
+# Problem 12: Snowball Poem Generator (Useful in ISYE6740 HW)
 
 Exercise 0 (3 pts) # defaultdict mapping word len(n) > a set of all words following it len(n+1) # re.split
 
