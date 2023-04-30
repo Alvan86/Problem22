@@ -17,10 +17,47 @@ Exercise 6 - (2 Points): Math formulaes
 Exercise 7 - (3 Points): List of dictionaries, combinations, sort values based on lexographical order of each key
 
 Exercise 8 - (3 Points): Algorithm > grid_search(func, ts, grid, n_back)
+
  
+# Problem24 Final Exam, Spring 2022: March (through May) Madness
 
 
+Exercise 0 - (1 Points) get_cols(conn) to return a list of the columns
 
+Exercise 1 - (3 Points) UNION ALL, CASE WHEN ELSE, pd.concat() 
+
+Exercise 2 - (1 Points) SQL
+
+Exercise 3 - (3 Points) "window function" 
+
+Exercise 4 - (2 Points) SQL 
+
+Exercise 5 - (3 Points) "window function" 
+
+Exercise 6 - (3 Points) Merging
+
+Exercise 7 - (1 Points) pred_accuracy(obs, preds)
+
+Exercise 8 - (2 Points) Calculating the bounds for each bucket and examine each pair of bounds
+
+
+# Problem23 Final Exam: Fall 2021 - Housing Prices
+
+Exercise 0: (1 point) Compute R2 Coefficient of determination - 1 - (SSR/SST)
+
+Exercise 1: (1 point) Math formulaes
+
+Exercise 2: (2 points) Cleaning the data (drop col/row, convert values to str, convert missing values to 0.0/None)
+
+Exercise 3: (2 points) Log transformed values in the col, partition numerical/categorical col using select_dtypes
+
+Exercise 4: (2 points) One-hot Encoding
+
+Exercise 5: (2 points) def train_test_split(data, pct, splitter=ind_splitter)
+
+Exercise 6: (3 points) Standardize the columns of X and compute its SVD
+
+Exercise 7: (2 points) Linear regression
 
 
 # Problem22 Spring 2021: Analyzing product reviews
